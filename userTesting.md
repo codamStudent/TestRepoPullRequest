@@ -1,20 +1,21 @@
 ## notes
 
-waarde van dozen niet goed uitgelegd
+de spelers hebben zich meerdere keren afgevraagd wat de waarde op de dozen betekend
 
-ui hat een onhandige locatie
+speler zei dat hammer ui in de weg zat
+(ui hat een onhandige locatie)
 
 spelers vinden  niet duidelijk wat er niet gebeuren
 
-doel  onduidelijk
+spelers waddeldelen lang rond zonder doel
+(doel  onduidelijk)
 
-de trein is te gevoelig(start/ stopt te snel)
-
-controls onduidelijk
+spelers overschoten het perron meerdere keren
+(de trein is te gevoelig(start/ stopt te snel))
 
 testpersonen vonden game leuk zodra ze de game begrepen
 
-bugs n.v.t.
+bugs n.v.t. (werden niet geobserveerd door spelers)
 
 ##opdrachten
 
